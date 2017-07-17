@@ -2,7 +2,7 @@
 
 Apresentação do seminário da disciplica de Sistemas Operacionais - Graduação em Engenharia da Computação, Inetel 2017
 
-**Obs:** Por decisão do professor da disciplina, a apresentação deveria se basear no artigo que lhe fora entregue.
+**Obs:** Por decisão do professor da disciplina, a apresentação deveria se basear no artigo entregue por ele. Artigo referenciado a baixo.
 
 **Artigo base:** 
   - kouliaridis2016.pdf
